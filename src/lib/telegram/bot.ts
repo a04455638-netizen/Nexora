@@ -21,6 +21,7 @@ export interface TelegramListingNotification {
   listingId: string;
   sellerName: string;
   sellerPhone: string;
+  sellerTelegram?: string;
   title: string;
   brand: string;
   model: string;
@@ -191,18 +192,34 @@ ${itemsText}
    * Send new marketplace listing notification
    */
   public async notifyNewMarketplaceListing(listing: TelegramListingNotification) {
+    const formattedDate = new Date().toLocaleString("uz-UZ", {
+      timeZone: "Asia/Tashkent",
+    });
+
+    const conditionMap: Record<string, string> = {
+      brand_new: "Yangi (Qutida ochilmagan)",
+      like_new: "Juda yaxshi (Ideal holatda)",
+      good: "Yaxshi (Ishlatilgan)",
+      needs_repair: "Ta'mir talab",
+    };
+
+    const conditionLabel = conditionMap[listing.condition] || listing.condition;
+
     const message = `
-🏷️ <b>NEXORA MARKETPLACE — YANGI E'LON</b>
+📢 <b>NEXORA MARKETPLACE — YANGI E'LON!</b>
 ━━━━━━━━━━━━━━━━━━━━━
-<b>E'lon kodi:</b> ${listing.listingId}
-<b>Sotuvchi:</b> ${listing.sellerName} (${listing.sellerPhone})
+<b>E'lon ID:</b> #${listing.listingId}
+<b>Sotuvchi:</b> ${listing.sellerName}
+<b>Telefon:</b> ${listing.sellerPhone}
+<b>Telegram:</b> ${listing.sellerTelegram ? `@${listing.sellerTelegram.replace("@", "")}` : "Mavjud emas"}
 <b>Mahsulot:</b> ${listing.title}
 <b>Brend va Model:</b> ${listing.brand} ${listing.model}
 <b>Kategoriya:</b> ${listing.category}
 <b>Sotish narxi:</b> ${listing.price.toLocaleString("uz-UZ")} so'm
-<b>Holati:</b> ${listing.condition}
+<b>Holati:</b> ${conditionLabel}
+<b>Vaqt:</b> ${formattedDate}
 ━━━━━━━━━━━━━━━━━━━━━
-<i>E'lonni tasdiqlash uchun Admin paneliga o'ting.</i>
+<i>E'lonni tasdiqlash yoki rad etish uchun Admin paneliga o'ting.</i>
     `.trim();
 
     return this.sendMessage(message, "HTML");

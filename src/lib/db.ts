@@ -642,6 +642,7 @@ class DatabaseService {
       listingId: newListing.id,
       sellerName: newListing.sellerName,
       sellerPhone: newListing.sellerPhone,
+      sellerTelegram: newListing.sellerTelegram,
       title: newListing.title,
       brand: newListing.brand,
       model: newListing.model,

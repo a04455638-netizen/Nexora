@@ -8,6 +8,7 @@ import { CompareProvider } from "@/features/compare/CompareContext";
 import { AuthProvider } from "@/features/account/AuthContext";
 import { RecentlyViewedProvider } from "@/features/recently-viewed/RecentlyViewedContext";
 import { CartDrawer } from "@/components/cart/CartDrawer";
+import { WelcomeIdentificationModal } from "@/components/auth/WelcomeIdentificationModal";
 
 export const AppProviders: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return (
@@ -19,6 +20,7 @@ export const AppProviders: React.FC<{ children: React.ReactNode }> = ({ children
               <RecentlyViewedProvider>
                 {children}
                 <CartDrawer />
+                <WelcomeIdentificationModal />
               </RecentlyViewedProvider>
             </CompareProvider>
           </FavoritesProvider>
