@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "nx-sp-01",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "name": "Apple iPhone 16 Pro Max 256GB Black Titanium",
+    "currentImage": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-02",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "name": "Apple iPhone 16 Pro 128GB Desert Titanium",
+    "currentImage": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-03",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Ultra",
+    "name": "Samsung Galaxy S25 Ultra 512GB Titanium Gray",
+    "currentImage": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-04",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 6",
+    "name": "Samsung Galaxy Z Fold 6 512GB Phantom Silver",
+    "currentImage": "https://images.unsplash.com/photo-1584006682522-dc17d6c0d9ac?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-05",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Google",
+    "model": "Pixel 9 Pro XL",
+    "name": "Google Pixel 9 Pro XL 256GB Obsidian",
+    "currentImage": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-06",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Xiaomi",
+    "model": "14 Ultra",
+    "name": "Xiaomi 14 Ultra 512GB Leica Edition Black",
+    "currentImage": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-07",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "OnePlus",
+    "model": "OnePlus 12",
+    "name": "OnePlus 12 512GB Silky Black",
+    "currentImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-08",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "name": "Apple iPhone 15 128GB Black",
+    "currentImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-09",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Samsung",
+    "model": "Galaxy S24+",
+    "name": "Samsung Galaxy S24+ 256GB Cobalt Violet",
+    "currentImage": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-10",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "ASUS",
+    "model": "ROG Phone 8 Pro",
+    "name": "ASUS ROG Phone 8 Pro 512GB Phantom Black",
+    "currentImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-11",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Xiaomi",
+    "model": "14T Pro",
+    "name": "Xiaomi 14T Pro 512GB Titan Gray",
+    "currentImage": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-12",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 6",
+    "name": "Samsung Galaxy Z Flip 6 256GB Mint",
+    "currentImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-13",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Sony",
+    "model": "Xperia 1 VI",
+    "name": "Sony Xperia 1 VI 256GB Black",
+    "currentImage": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-14",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Nothing",
+    "model": "Phone (2)",
+    "name": "Nothing Phone (2) 256GB Dark Grey",
+    "currentImage": "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-15",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Vivo",
+    "model": "X100 Pro",
+    "name": "Vivo X100 Pro 512GB Asteroid Black",
+    "currentImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-16",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Realme",
+    "model": "GT 6",
+    "name": "Realme GT 6 512GB Fluid Silver",
+    "currentImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-17",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Apple",
+    "model": "iPhone 16 Plus",
+    "name": "Apple iPhone 16 Plus 256GB Ultramarine",
+    "currentImage": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-18",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "POCO",
+    "model": "F6 Pro",
+    "name": "POCO F6 Pro 512GB Moonlight Silver",
+    "currentImage": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-19",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Samsung",
+    "model": "Galaxy A55",
+    "name": "Samsung Galaxy A55 5G 256GB Awesome Navy",
+    "currentImage": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-sp-20",
+    "category": "smartphones",
+    "categoryName": "Smartfonlar",
+    "brand": "Google",
+    "model": "Pixel 8a",
+    "name": "Google Pixel 8a 128GB Bay Blue",
+    "currentImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 0
+  },
+  {
+    "id": "nx-la-21",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Apple",
+    "model": "MacBook Pro 16",
+    "name": "Apple MacBook Pro 16\" M3 Max 36GB / 1TB Space Black",
+    "currentImage": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-22",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Apple",
+    "model": "MacBook Pro 14",
+    "name": "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB Silver",
+    "currentImage": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-23",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Apple",
+    "model": "MacBook Air 15",
+    "name": "Apple MacBook Air 15\" M3 16GB / 512GB Midnight",
+    "currentImage": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-24",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Apple",
+    "model": "MacBook Air 13",
+    "name": "Apple MacBook Air 13\" M3 8GB / 256GB Starlight",
+    "currentImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-25",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "ASUS",
+    "model": "ROG Zephyrus G16",
+    "name": "ASUS ROG Zephyrus G16 (2024) OLED RTX 4090 32GB / 2TB",
+    "currentImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-26",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "ASUS",
+    "model": "ROG Strix SCAR 18",
+    "name": "ASUS ROG Strix SCAR 18 i9-14900HX RTX 4090 32GB / 2TB",
+    "currentImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-27",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "ASUS",
+    "model": "TUF Gaming A15",
+    "name": "ASUS TUF Gaming A15 Ryzen 7 7735HS RTX 4060 16GB / 512GB",
+    "currentImage": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-28",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "ASUS",
+    "model": "Zenbook Duo UX8406",
+    "name": "ASUS Zenbook Duo Dual 14\" 3K OLED Ultra 9 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-29",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Lenovo",
+    "model": "Legion Pro 7i",
+    "name": "Lenovo Legion Pro 7i Gen 9 i9-14900HX RTX 4080 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-30",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Lenovo",
+    "model": "Legion 5i",
+    "name": "Lenovo Legion 5i Gen 9 i7-14650HX RTX 4060 16GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-31",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12 Core Ultra 7 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-32",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Razer",
+    "model": "Blade 16",
+    "name": "Razer Blade 16 Dual-Mode Mini-LED RTX 4080 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-33",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Razer",
+    "model": "Blade 14",
+    "name": "Razer Blade 14 AMD Ryzen 9 8945HS RTX 4070 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-34",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Dell",
+    "model": "XPS 16",
+    "name": "Dell XPS 16 (9640) Core Ultra 7 RTX 4060 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-35",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Dell",
+    "model": "XPS 14",
+    "name": "Dell XPS 14 (9440) Core Ultra 7 RTX 4050 16GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-36",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "HP",
+    "model": "OMEN Transcend 14",
+    "name": "HP OMEN Transcend 14 OLED Ultra 7 RTX 4060 16GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-37",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "MSI",
+    "model": "Titan 18 HX",
+    "name": "MSI Titan 18 HX i9-14900HX RTX 4090 64GB / 4TB",
+    "currentImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-la-38",
+    "category": "laptops",
+    "categoryName": "Noutbuklar",
+    "brand": "Microsoft",
+    "model": "Surface Laptop 7",
+    "name": "Microsoft Surface Laptop 7 Copilot+ PC Snapdragon X Elite",
+    "currentImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-39",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "NEXORA Custom",
+    "model": "Valkyrie Ultra",
+    "name": "NEXORA Valkyrie Ultra Beast RTX 5090 32GB / i9-14900KS / 64GB / 4TB",
+    "currentImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-40",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "NEXORA Custom",
+    "model": "Apex Pro",
+    "name": "NEXORA Apex Ryzen 9 9950X / RTX 4090 24GB / 64GB / 2TB",
+    "currentImage": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-41",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "NEXORA Custom",
+    "model": "Phantom Gaming",
+    "name": "NEXORA Phantom Gaming Core i7-14700F / RTX 4070 Super / 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-42",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "Apple",
+    "model": "Mac Studio M2 Ultra",
+    "name": "Apple Mac Studio M2 Ultra (24-core CPU, 60-core GPU, 64GB, 1TB)",
+    "currentImage": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-43",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "Apple",
+    "model": "Mac Pro Rack",
+    "name": "Apple Mac Pro M2 Ultra Rack 128GB / 2TB",
+    "currentImage": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-44",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "Corsair",
+    "model": "Vengeance i7500",
+    "name": "Corsair Vengeance i7500 i9-14900K / RTX 4080 Super / 32GB / 2TB",
+    "currentImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-45",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "Alienware",
+    "model": "Aurora R16",
+    "name": "Alienware Aurora R16 i9-14900KF / RTX 4090 / 64GB / 2TB Liquid",
+    "currentImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-46",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "NZXT",
+    "model": "Player Three Prime",
+    "name": "NZXT Player Three Prime i9-14900KF / RTX 4090 / 64GB / 2TB H9 Flow",
+    "currentImage": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-47",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "Lenovo",
+    "model": "Legion Tower 7i",
+    "name": "Lenovo Legion Tower 7i Gen 8 i9-13900KF / RTX 4080 / 32GB / 1TB",
+    "currentImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-48",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "HP",
+    "model": "OMEN 45L",
+    "name": "HP OMEN 45L Gaming Desktop i9-14900K / RTX 4090 / Cryo Chamber",
+    "currentImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-49",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "MSI",
+    "model": "MEG Trident X2",
+    "name": "MSI MEG Trident X2 14th i9-14900KF / RTX 4090 / HMI 2.0 Touch",
+    "currentImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-50",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "CyberPowerPC",
+    "model": "Gamer Supreme",
+    "name": "CyberPowerPC Gamer Supreme Liquid Cool i7-14700KF / RTX 4070 Ti Super",
+    "currentImage": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-51",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "NEXORA Custom",
+    "model": "Mini Cube",
+    "name": "NEXORA Mini-ITX SFF Cube Ryzen 7 7800X3D / RTX 4070 Super",
+    "currentImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-de-52",
+    "category": "desktops",
+    "categoryName": "Stol kompyuterlari",
+    "brand": "Apple",
+    "model": "Mac mini M2 Pro",
+    "name": "Apple Mac mini M2 Pro 12-core CPU 16GB / 512GB",
+    "currentImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-53",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "NVIDIA",
+    "model": "RTX 5090 FE",
+    "name": "NVIDIA GeForce RTX 5090 32GB GDDR7 Founders Edition",
+    "currentImage": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-54",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "NVIDIA",
+    "model": "RTX 5080 FE",
+    "name": "NVIDIA GeForce RTX 5080 16GB GDDR7 Founders Edition",
+    "currentImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-55",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "ASUS",
+    "model": "ROG Strix RTX 4090 OC",
+    "name": "ASUS ROG Strix GeForce RTX 4090 24GB GDDR6X OC Edition",
+    "currentImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-56",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "MSI",
+    "model": "RTX 4090 Suprim Liquid",
+    "name": "MSI GeForce RTX 4090 SUPRIM LIQUID X 24GB AIO",
+    "currentImage": "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-57",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "MSI",
+    "model": "RTX 4080 Super Suprim X",
+    "name": "MSI GeForce RTX 4080 Super 16GB SUPRIM X",
+    "currentImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-58",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "ASUS",
+    "model": "TUF RTX 4080 Super",
+    "name": "ASUS TUF Gaming GeForce RTX 4080 Super 16GB OC",
+    "currentImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-59",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "Gigabyte",
+    "model": "AORUS RTX 4070 Ti Super",
+    "name": "Gigabyte GeForce RTX 4070 Ti Super AORUS MASTER 16GB",
+    "currentImage": "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-60",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "Gigabyte",
+    "model": "RTX 4070 Ti Super Windforce",
+    "name": "Gigabyte GeForce RTX 4070 Ti Super WINDFORCE OC 16GB",
+    "currentImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-61",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "ASUS",
+    "model": "TUF RTX 4070 Super",
+    "name": "ASUS TUF Gaming GeForce RTX 4070 Super 12GB OC",
+    "currentImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-62",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "MSI",
+    "model": "RTX 4070 Super Ventus 3X",
+    "name": "MSI GeForce RTX 4070 Super 12GB VENTUS 3X OC",
+    "currentImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-63",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "Palit",
+    "model": "RTX 4070 Super Dual",
+    "name": "Palit GeForce RTX 4070 Super Dual 12GB",
+    "currentImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-64",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "ASUS",
+    "model": "Dual RTX 4060 Ti 16GB",
+    "name": "ASUS Dual GeForce RTX 4060 Ti EVO 16GB OC",
+    "currentImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-65",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "ZOTAC",
+    "model": "RTX 4060 Twin Edge",
+    "name": "ZOTAC Gaming GeForce RTX 4060 8GB Twin Edge OC White",
+    "currentImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-66",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "Sapphire",
+    "model": "Radeon RX 7900 XTX Nitro+",
+    "name": "Sapphire Nitro+ AMD Radeon RX 7900 XTX 24GB Vapor-X",
+    "currentImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-gp-67",
+    "category": "gpus",
+    "categoryName": "Videokartalar",
+    "brand": "PowerColor",
+    "model": "RX 7800 XT Hellhound",
+    "name": "PowerColor Hellhound AMD Radeon RX 7800 XT 16GB",
+    "currentImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-68",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 7 9800X3D",
+    "name": "AMD Ryzen 7 9800X3D 8-Core 16-Thread 5.2GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-69",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "Intel",
+    "model": "Core i9-14900KS",
+    "name": "Intel Core i9-14900KS Special Edition 6.2GHz LGA1700",
+    "currentImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-70",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 9 9950X",
+    "name": "AMD Ryzen 9 9950X 16-Core 32-Thread 5.7GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-71",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "Intel",
+    "model": "Core Ultra 9 285K",
+    "name": "Intel Core Ultra 9 285K 24-Core LGA1851 Arrow Lake",
+    "currentImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-72",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 7 7800X3D",
+    "name": "AMD Ryzen 7 7800X3D 8-Core 5.0GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-73",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "Intel",
+    "model": "Core i9-14900K",
+    "name": "Intel Core i9-14900K 24-Core 6.0GHz LGA1700",
+    "currentImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-74",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "Intel",
+    "model": "Core i7-14700K",
+    "name": "Intel Core i7-14700K 20-Core 5.6GHz LGA1700",
+    "currentImage": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-75",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 9 7950X3D",
+    "name": "AMD Ryzen 9 7950X3D 16-Core 5.7GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-76",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 5 7600X",
+    "name": "AMD Ryzen 5 7600X 6-Core 5.3GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-77",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "Intel",
+    "model": "Core i5-14600K",
+    "name": "Intel Core i5-14600K 14-Core 5.3GHz LGA1700",
+    "currentImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-78",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "Intel",
+    "model": "Core Ultra 7 265K",
+    "name": "Intel Core Ultra 7 265K 20-Core LGA1851",
+    "currentImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-79",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 9 9900X",
+    "name": "AMD Ryzen 9 9900X 12-Core 24-Thread 5.6GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-80",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Ryzen 7 9700X",
+    "name": "AMD Ryzen 7 9700X 8-Core 16-Thread 5.5GHz AM5",
+    "currentImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-cp-81",
+    "category": "cpus",
+    "categoryName": "Protsessorlar",
+    "brand": "AMD",
+    "model": "Threadripper 7980X",
+    "name": "AMD Ryzen Threadripper 7980X 64-Core 128-Thread sTR5",
+    "currentImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-82",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Samsung",
+    "model": "Odyssey OLED G9",
+    "name": "Samsung Odyssey OLED G9 49\" Dual QHD 240Hz 0.03ms",
+    "currentImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-83",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "ASUS",
+    "model": "ROG PG32UCDM",
+    "name": "ASUS ROG Swift OLED PG32UCDM 32\" 4K QD-OLED 240Hz",
+    "currentImage": "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-84",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Dell",
+    "model": "AW3423DWF",
+    "name": "Alienware AW3423DWF 34\" Curved QD-OLED 165Hz",
+    "currentImage": "https://images.unsplash.com/photo-1547119957-637f8679db1e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-85",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Dell",
+    "model": "AW2725DF",
+    "name": "Alienware AW2725DF 27\" QD-OLED 360Hz QHD eSports",
+    "currentImage": "https://images.unsplash.com/photo-1593642634367-d91a135587b5?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-86",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Samsung",
+    "model": "Odyssey Neo G8",
+    "name": "Samsung Odyssey Neo G8 32\" 4K 240Hz 1000R Mini-LED",
+    "currentImage": "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-87",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "ASUS",
+    "model": "PG27AQDM",
+    "name": "ASUS ROG Swift OLED PG27AQDM 27\" 1440p 240Hz",
+    "currentImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-88",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "LG",
+    "model": "UltraGear 45GR95QE",
+    "name": "LG UltraGear 45GR95QE 45\" Curved OLED 240Hz 800R",
+    "currentImage": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-89",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "LG",
+    "model": "UltraGear 27GR95UM",
+    "name": "LG UltraGear 27GR95UM 27\" 4K 160Hz Nano IPS Mini-LED",
+    "currentImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-90",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "MSI",
+    "model": "MPG 321URX",
+    "name": "MSI MPG 321URX QD-OLED 32\" 4K 240Hz",
+    "currentImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-91",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "BenQ",
+    "model": "EX3210U",
+    "name": "BenQ Mobiuz EX3210U 32\" 4K 144Hz IPS TreVolo Audio",
+    "currentImage": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-92",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Apple",
+    "model": "Studio Display Nano",
+    "name": "Apple Studio Display 27\" 5K Retina Nano-Texture Glass",
+    "currentImage": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-93",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Apple",
+    "model": "Pro Display XDR",
+    "name": "Apple Pro Display XDR 32\" 6K Retina Display",
+    "currentImage": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-94",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Gigabyte",
+    "model": "M32U",
+    "name": "Gigabyte M32U 32\" 4K 144Hz FreeSync Premium Pro",
+    "currentImage": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-95",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "ASUS",
+    "model": "ProArt PA32UCG-K",
+    "name": "ASUS ProArt PA32UCG-K 32\" 4K HDR 1600 nits Mini-LED",
+    "currentImage": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-mo-96",
+    "category": "monitors",
+    "categoryName": "Monitorlar",
+    "brand": "Samsung",
+    "model": "Odyssey G5 G55C",
+    "name": "Samsung Odyssey G5 27\" WQHD 165Hz 1000R Gaming",
+    "currentImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-97",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Samsung",
+    "model": "QN900D",
+    "name": "Samsung Neo QLED 8K 85\" QN900D AI Gen3 Smart TV",
+    "currentImage": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-98",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Samsung",
+    "model": "S95D",
+    "name": "Samsung OLED S95D 65\" 4K Anti-Glare Glare-Free TV",
+    "currentImage": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-99",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Samsung",
+    "model": "The Frame 65",
+    "name": "Samsung The Frame 65\" LS03D Art Mode QLED TV",
+    "currentImage": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-100",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "LG",
+    "model": "OLED77G4",
+    "name": "LG OLED evo G4 77\" 4K Smart TV MLA+ Brightness Booster",
+    "currentImage": "https://images.unsplash.com/photo-1577979749830-f1d742b96791?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-101",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "LG",
+    "model": "OLED65C4",
+    "name": "LG OLED C4 65\" 4K 144Hz Cinema Smart TV",
+    "currentImage": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-102",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "LG",
+    "model": "OLED55B4",
+    "name": "LG OLED B4 55\" 4K Dolby Vision Gaming TV",
+    "currentImage": "https://images.unsplash.com/photo-1558888401-3cc1de77652d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-103",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Sony",
+    "model": "K-75XR90",
+    "name": "Sony Bravia 9 75\" Mini LED 4K High Peak Brightness",
+    "currentImage": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-104",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Sony",
+    "model": "K-65XR80",
+    "name": "Sony Bravia 8 65\" 4K OLED Google TV",
+    "currentImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-105",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Sony",
+    "model": "XR-65A95L",
+    "name": "Sony Bravia XR A95L 65\" QD-OLED Flagship TV",
+    "currentImage": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-106",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "TCL",
+    "model": "85C855",
+    "name": "TCL C855 85\" Premium QD-Mini LED 3500 nits TV",
+    "currentImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-107",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "TCL",
+    "model": "65C755",
+    "name": "TCL C755 65\" QD-Mini LED 144Hz Onkyo Audio",
+    "currentImage": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-108",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Hisense",
+    "model": "75U8N",
+    "name": "Hisense U8N 75\" Mini-LED PRO 3000 nits Hi-View Engine",
+    "currentImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-109",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Xiaomi",
+    "model": "S65 Mini-LED",
+    "name": "Xiaomi TV S Mini LED 65\" 4K 144Hz HyperOS",
+    "currentImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-tv-110",
+    "category": "tvs",
+    "categoryName": "Televizorlar",
+    "brand": "Philips",
+    "model": "65OLED808",
+    "name": "Philips Ambilight 65OLED808 65\" 4K OLED 3-sided Ambilight",
+    "currentImage": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-111",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Apple",
+    "model": "iPad Pro 13 M4",
+    "name": "Apple iPad Pro 13\" M4 256GB Wi-Fi Space Black",
+    "currentImage": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-112",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Apple",
+    "model": "iPad Pro 11 M4",
+    "name": "Apple iPad Pro 11\" M4 256GB Wi-Fi Silver",
+    "currentImage": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-113",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Apple",
+    "model": "iPad Air 13 M2",
+    "name": "Apple iPad Air 13\" M2 128GB Wi-Fi Blue",
+    "currentImage": "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-114",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Apple",
+    "model": "iPad Air 11 M2",
+    "name": "Apple iPad Air 11\" M2 128GB Wi-Fi Space Gray",
+    "currentImage": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-115",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Apple",
+    "model": "iPad 10",
+    "name": "Apple iPad 10th Gen 64GB Wi-Fi Yellow",
+    "currentImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-116",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Apple",
+    "model": "iPad mini 7",
+    "name": "Apple iPad mini (A17 Pro) 128GB Starlight",
+    "currentImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-117",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Samsung",
+    "model": "Tab S10 Ultra",
+    "name": "Samsung Galaxy Tab S10 Ultra 5G 512GB Moonstone Gray",
+    "currentImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-118",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Samsung",
+    "model": "Tab S10+",
+    "name": "Samsung Galaxy Tab S10+ 256GB Wi-Fi Platinum Silver",
+    "currentImage": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-119",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Samsung",
+    "model": "Tab S9 FE",
+    "name": "Samsung Galaxy Tab S9 FE 128GB Mint with S-Pen",
+    "currentImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-120",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Xiaomi",
+    "model": "Pad 6S Pro",
+    "name": "Xiaomi Pad 6S Pro 12.4\" 512GB 144Hz Snapdragon 8 Gen 2",
+    "currentImage": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-121",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Microsoft",
+    "model": "Surface Pro 11",
+    "name": "Microsoft Surface Pro 11 Copilot+ OLED Snapdragon X Elite",
+    "currentImage": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-122",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "OnePlus",
+    "model": "Pad 2",
+    "name": "OnePlus Pad 2 256GB Nimbus Gray 3K 144Hz",
+    "currentImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-123",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Lenovo",
+    "model": "Legion Tab Y700",
+    "name": "Lenovo Legion Tab 8.8\" 256GB 144Hz Gaming Tablet",
+    "currentImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ta-124",
+    "category": "tablets",
+    "categoryName": "Planshetlar",
+    "brand": "Huawei",
+    "model": "MatePad Pro 13.2",
+    "name": "Huawei MatePad Pro 13.2\" 256GB Flexible OLED PaperMatte",
+    "currentImage": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-125",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Apple",
+    "model": "Apple Watch Ultra 2",
+    "name": "Apple Watch Ultra 2 49mm Titanium with Trail Loop",
+    "currentImage": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-126",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Apple",
+    "model": "Apple Watch 10 46mm",
+    "name": "Apple Watch Series 10 46mm Jet Black Aluminum",
+    "currentImage": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-127",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Apple",
+    "model": "Apple Watch 10 42mm",
+    "name": "Apple Watch Series 10 42mm Rose Gold Aluminum",
+    "currentImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-128",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Apple",
+    "model": "Apple Watch SE",
+    "name": "Apple Watch SE (2nd Gen) 44mm Midnight Sport Band",
+    "currentImage": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-129",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Samsung",
+    "model": "Galaxy Watch Ultra",
+    "name": "Samsung Galaxy Watch Ultra 47mm Titanium Gray",
+    "currentImage": "https://images.unsplash.com/photo-1509741102003-ca64bfe5f069?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-130",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Samsung",
+    "model": "Galaxy Watch 7 44mm",
+    "name": "Samsung Galaxy Watch 7 44mm Green Bluetooth",
+    "currentImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-131",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Samsung",
+    "model": "Galaxy Watch 7 40mm",
+    "name": "Samsung Galaxy Watch 7 40mm Cream Bluetooth",
+    "currentImage": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-132",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Garmin",
+    "model": "Fenix 8 47mm",
+    "name": "Garmin Fenix 8 47mm AMOLED Sapphire Titanium",
+    "currentImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-133",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Garmin",
+    "model": "Epix Pro 51mm",
+    "name": "Garmin Epix Pro (Gen 2) Sapphire 51mm Carbon Gray",
+    "currentImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-134",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Garmin",
+    "model": "Forerunner 965",
+    "name": "Garmin Forerunner 965 Titanium Bezel Amp Yellow",
+    "currentImage": "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-135",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Huawei",
+    "model": "Watch Ultimate",
+    "name": "Huawei Watch Ultimate Voyage Blue Titanium & Ceramic",
+    "currentImage": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-136",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Huawei",
+    "model": "Watch GT 4 46mm",
+    "name": "Huawei Watch GT 4 46mm Black Stainless Steel",
+    "currentImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-137",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Amazfit",
+    "model": "Falcon Titanium",
+    "name": "Amazfit Falcon Titanium Dual-Band Sapphire Sport Watch",
+    "currentImage": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-sm-138",
+    "category": "smartwatches",
+    "categoryName": "Smart-soatlar",
+    "brand": "Suunto",
+    "model": "Race Titanium",
+    "name": "Suunto Race Titanium Charcoal All Black AMOLED",
+    "currentImage": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-139",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Apple",
+    "model": "AirPods Max USB-C",
+    "name": "Apple AirPods Max (USB-C) Midnight",
+    "currentImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-140",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Apple",
+    "model": "AirPods Pro 2",
+    "name": "Apple AirPods Pro 2 (USB-C MagSafe Case)",
+    "currentImage": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-141",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Apple",
+    "model": "AirPods 4 ANC",
+    "name": "Apple AirPods 4 with Active Noise Cancellation",
+    "currentImage": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-142",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Sony",
+    "model": "WH-1000XM5",
+    "name": "Sony WH-1000XM5 Wireless Noise-Canceling Black",
+    "currentImage": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-143",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Sony",
+    "model": "WF-1000XM5",
+    "name": "Sony WF-1000XM5 True Wireless Earbuds Silver",
+    "currentImage": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-144",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Sony",
+    "model": "WH-1000XM4",
+    "name": "Sony WH-1000XM4 Wireless Noise-Canceling Midnight Blue",
+    "currentImage": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-145",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Bose",
+    "model": "QC Ultra Headphones",
+    "name": "Bose QuietComfort Ultra Headphones Black",
+    "currentImage": "https://images.unsplash.com/photo-1545127398-14699f92334b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-146",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Bose",
+    "model": "QC Ultra Earbuds",
+    "name": "Bose QuietComfort Ultra Earbuds White Smoke",
+    "currentImage": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-147",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Sennheiser",
+    "model": "Momentum 4",
+    "name": "Sennheiser Momentum 4 Wireless Denim Edition",
+    "currentImage": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-148",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Sennheiser",
+    "model": "Momentum TW 4",
+    "name": "Sennheiser Momentum True Wireless 4 Graphite",
+    "currentImage": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-149",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Marshall",
+    "model": "Major V",
+    "name": "Marshall Major V Bluetooth On-Ear Headphones Brown",
+    "currentImage": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-150",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Marshall",
+    "model": "Motif II ANC",
+    "name": "Marshall Motif II A.N.C. Wireless Earbuds Black",
+    "currentImage": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-151",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Beyerdynamic",
+    "model": "DT 990 Pro 250",
+    "name": "Beyerdynamic DT 990 Pro 250 Ohm Studio Headphones",
+    "currentImage": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-152",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Audio-Technica",
+    "model": "ATH-M50xBT2",
+    "name": "Audio-Technica ATH-M50xBT2 Wireless Professional",
+    "currentImage": "https://images.unsplash.com/photo-1590658006821-04f4008d5717?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-he-153",
+    "category": "headphones",
+    "categoryName": "Quloqchinlar",
+    "brand": "Shure",
+    "model": "AONIC 50 Gen 2",
+    "name": "Shure AONIC 50 Gen 2 Wireless Studio Headphones",
+    "currentImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-154",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Sony",
+    "model": "PlayStation 5 Pro",
+    "name": "Sony PlayStation 5 Pro 2TB Digital Edition Console",
+    "currentImage": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-155",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Sony",
+    "model": "PS5 Slim 1TB",
+    "name": "Sony PlayStation 5 Slim 1TB Chassis D Edition",
+    "currentImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-156",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Microsoft",
+    "model": "Xbox Series X 1TB",
+    "name": "Xbox Series X 1TB Console Robot White All-Digital",
+    "currentImage": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-157",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Microsoft",
+    "model": "Xbox Series S 1TB",
+    "name": "Xbox Series S 1TB Carbon Black",
+    "currentImage": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-158",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Nintendo",
+    "model": "Switch OLED Mario Red",
+    "name": "Nintendo Switch OLED Model Mario Red Edition",
+    "currentImage": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-159",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Valve",
+    "model": "Steam Deck OLED 1TB",
+    "name": "Valve Steam Deck OLED 1TB Handheld Gaming PC",
+    "currentImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-160",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "ASUS",
+    "model": "ROG Ally X",
+    "name": "ASUS ROG Ally X 1TB 24GB LPDDR5X Handheld PC",
+    "currentImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-161",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Lenovo",
+    "model": "Legion Go",
+    "name": "Lenovo Legion Go 512GB 8.8\" 144Hz Detachable Controllers",
+    "currentImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-162",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Thrustmaster",
+    "model": "T300 RS GT",
+    "name": "Thrustmaster T300 RS GT Edition Racing Wheel & Pedals",
+    "currentImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-163",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Logitech G",
+    "model": "G29 Driving Force",
+    "name": "Logitech G29 Driving Force Racing Wheel & Shifter",
+    "currentImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-164",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Meta",
+    "model": "Quest 3 512GB",
+    "name": "Meta Quest 3 512GB Breakthrough Mixed Reality",
+    "currentImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-165",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Meta",
+    "model": "Quest 3S 128GB",
+    "name": "Meta Quest 3S 128GB Mixed Reality Headset",
+    "currentImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-166",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Elgato",
+    "model": "Stream Deck MK.2",
+    "name": "Elgato Stream Deck MK.2 Black 15 LCD Keys",
+    "currentImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ga-167",
+    "category": "gaming-accessories",
+    "categoryName": "Gaming aksessuarlari",
+    "brand": "Sony",
+    "model": "DualSense Edge",
+    "name": "Sony DualSense Edge Wireless Controller for PS5",
+    "currentImage": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-168",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Logitech G",
+    "model": "Superlight 2",
+    "name": "Logitech G PRO X Superlight 2 Lightspeed Gaming Mouse",
+    "currentImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-169",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Razer",
+    "model": "DeathAdder V3 Pro",
+    "name": "Razer DeathAdder V3 Pro Wireless Gaming Mouse Black",
+    "currentImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-170",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Razer",
+    "model": "Viper V3 Pro",
+    "name": "Razer Viper V3 Pro Ultra-lightweight Wireless 8000Hz",
+    "currentImage": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-171",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Wooting",
+    "model": "60HE+",
+    "name": "Wooting 60HE+ Rapid Trigger Analog Keyboard",
+    "currentImage": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-172",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "SteelSeries",
+    "model": "Apex Pro TKL G3",
+    "name": "SteelSeries Apex Pro TKL (Gen 3) Wireless OmniPoint 3.0",
+    "currentImage": "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-173",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Razer",
+    "model": "Huntsman V3 Pro TKL",
+    "name": "Razer Huntsman V3 Pro Tenkeyless Analog Gen-2",
+    "currentImage": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-174",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Keychron",
+    "model": "Q1 Pro 75%",
+    "name": "Keychron Q1 Pro QMK/VIA Wireless Custom Mechanical",
+    "currentImage": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-175",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Keychron",
+    "model": "K3 Pro",
+    "name": "Keychron K3 Pro Ultra-Slim Wireless Low Profile",
+    "currentImage": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-176",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "ASUS",
+    "model": "ROG Azoth",
+    "name": "ASUS ROG Azoth 75% Wireless Custom Gaming Keyboard",
+    "currentImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-177",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Logitech",
+    "model": "MX Master 3S",
+    "name": "Logitech MX Master 3S Wireless Performance Mouse",
+    "currentImage": "https://images.unsplash.com/photo-1626218174358-7769486c4b79?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-178",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Logitech",
+    "model": "MX Keys S",
+    "name": "Logitech MX Keys S Wireless Illuminated Keyboard",
+    "currentImage": "https://images.unsplash.com/photo-1561112079-2c3226d9c559?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-179",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Glorious",
+    "model": "GMMK PRO",
+    "name": "Glorious GMMK PRO 75% Barebone Modular White Ice",
+    "currentImage": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-180",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Finalmouse",
+    "model": "ULX Lion",
+    "name": "Finalmouse UltralightX Lion (M) Carbon-Fiber Wireless",
+    "currentImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-181",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Pulsar",
+    "model": "X2V2 Mini",
+    "name": "Pulsar X2V2 Wireless Gaming Mouse Black",
+    "currentImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ke-182",
+    "category": "keyboards-mice",
+    "categoryName": "Klaviaturalar va sichqonchalar",
+    "brand": "Akko",
+    "model": "MOD 007B-PC",
+    "name": "Akko MOD 007B-PC Multi-Modes Magnetic Switch Keyboard",
+    "currentImage": "https://images.unsplash.com/photo-1560762484-813fc97650a0?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-183",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dyson",
+    "model": "V15 Detect Absolute",
+    "name": "Dyson V15 Detect Absolute Cordless Vacuum Cleaner",
+    "currentImage": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-184",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dyson",
+    "model": "Gen5detect",
+    "name": "Dyson Gen5detect Absolute Cordless Vacuum",
+    "currentImage": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-185",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dyson",
+    "model": "Airwrap Long",
+    "name": "Dyson Airwrap Multi-styler Complete Long Strawberry Bronze",
+    "currentImage": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-186",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dyson",
+    "model": "Supersonic Nural",
+    "name": "Dyson Supersonic Nural Hair Dryer Strawberry Bronze",
+    "currentImage": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-187",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Roborock",
+    "model": "S8 MaxV Ultra",
+    "name": "Roborock S8 MaxV Ultra Robot Vacuum & Sonic Mop",
+    "currentImage": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-188",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Roborock",
+    "model": "Qrevo MaxV",
+    "name": "Roborock Qrevo MaxV Robot Vacuum with Dual Spinning Mops",
+    "currentImage": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-189",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dreame",
+    "model": "X40 Ultra",
+    "name": "Dreame X40 Ultra Robotic Vacuum and Mop 12000Pa",
+    "currentImage": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-190",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dreame",
+    "model": "L20 Ultra",
+    "name": "Dreame L20 Ultra Robot Vacuum with MopExtend",
+    "currentImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-191",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "DeLonghi",
+    "model": "Magnifica S ECAM250.23",
+    "name": "DeLonghi Magnifica S Smart Fully Automatic Coffee Maker",
+    "currentImage": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-192",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Philips",
+    "model": "EP5447/90",
+    "name": "Philips Series 5400 LatteGo Fully Automatic Espresso Machine",
+    "currentImage": "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-193",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Breville",
+    "model": "BES881BSS",
+    "name": "Breville the Barista Touch Impress Espresso Machine Black",
+    "currentImage": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-194",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "LG",
+    "model": "GR-X29FTQKL",
+    "name": "LG InstaView Door-in-Door Muzlatgich 635L Matt Black",
+    "currentImage": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-195",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Xiaomi",
+    "model": "Purifier 4 Pro",
+    "name": "Xiaomi Smart Air Purifier 4 Pro OLED Havo Tozalagich",
+    "currentImage": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ap-196",
+    "category": "appliances",
+    "categoryName": "Maishiy texnika",
+    "brand": "Dyson",
+    "model": "HP09",
+    "name": "Dyson Purifier Hot+Cool Formaldehyde HP09 Air Purifier",
+    "currentImage": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-197",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "ASUS ROG",
+    "model": "GT-BE98",
+    "name": "ASUS ROG Rapture GT-BE98 Quad-Band Wi-Fi 7 Gaming Router",
+    "currentImage": "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-198",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "ASUS",
+    "model": "RT-AX88U Pro",
+    "name": "ASUS RT-AX88U Pro Dual-Band Wi-Fi 6 Gaming Router",
+    "currentImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-199",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "TP-Link",
+    "model": "Archer GE800",
+    "name": "TP-Link Archer GE800 Wi-Fi 7 Tri-Band Gaming Router",
+    "currentImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-200",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "TP-Link",
+    "model": "Deco BE85",
+    "name": "TP-Link Deco BE85 Wi-Fi 7 Whole Home Mesh System (2-Pack)",
+    "currentImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-201",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Samsung",
+    "model": "990 PRO 4TB Heatsink",
+    "name": "Samsung 990 PRO 4TB PCIe 4.0 NVMe M.2 SSD with Heatsink",
+    "currentImage": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-202",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Samsung",
+    "model": "990 PRO 2TB",
+    "name": "Samsung 990 PRO 2TB PCIe 4.0 NVMe M.2 SSD",
+    "currentImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-203",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Western Digital",
+    "model": "SN850X 4TB",
+    "name": "WD_BLACK SN850X 4TB PCIe Gen4 NVMe Gaming SSD Heatsink",
+    "currentImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-204",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Crucial",
+    "model": "T705 2TB Gen5",
+    "name": "Crucial T705 2TB PCIe 5.0 NVMe M.2 SSD with Heatsink",
+    "currentImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-205",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Kingston",
+    "model": "KC3000 2TB",
+    "name": "Kingston KC3000 2TB PCIe 4.0 NVMe M.2 SSD",
+    "currentImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-206",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Samsung",
+    "model": "T9 4TB",
+    "name": "Samsung T9 4TB USB 3.2 Gen 2x2 Portable SSD",
+    "currentImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-207",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "SanDisk",
+    "model": "Extreme PRO 2TB",
+    "name": "SanDisk Extreme PRO 2TB Portable SSD V2 (2000MB/s)",
+    "currentImage": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-208",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Synology",
+    "model": "DS923+",
+    "name": "Synology DiskStation DS923+ 4-Bay NAS Server",
+    "currentImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-209",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Synology",
+    "model": "DS224+",
+    "name": "Synology DiskStation DS224+ 2-Bay NAS Server",
+    "currentImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-210",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "QNAP",
+    "model": "TS-464",
+    "name": "QNAP TS-464-8G 4-Bay High-Performance NAS",
+    "currentImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-st-211",
+    "category": "storage-routers",
+    "categoryName": "Routerlar va saqlash",
+    "brand": "Ubiquiti",
+    "model": "UCG-Ultra",
+    "name": "Ubiquiti UniFi Cloud Gateway Ultra (UCG-Ultra)",
+    "currentImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-212",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Apple",
+    "model": "Vision Pro",
+    "name": "Apple Vision Pro 512GB Spatial Computer",
+    "currentImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-213",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "DJI",
+    "model": "Avata 2 Fly More",
+    "name": "DJI Avata 2 Fly More Combo (3 Batteries) FPV Drone",
+    "currentImage": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-214",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "DJI",
+    "model": "Mini 4 Pro Plus",
+    "name": "DJI Mini 4 Pro Fly More Combo Plus Drone",
+    "currentImage": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-215",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "DJI",
+    "model": "Osmo Pocket 3 Creator",
+    "name": "DJI Osmo Pocket 3 Creator Combo 4K/120fps Vlog Camera",
+    "currentImage": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-216",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "GoPro",
+    "model": "HERO13 Black Creator",
+    "name": "GoPro HERO13 Black Creator Edition Action Camera",
+    "currentImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-217",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Insta360",
+    "model": "X4 8K",
+    "name": "Insta360 X4 8K 360 Degree Waterproof Action Camera",
+    "currentImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-218",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "EcoFlow",
+    "model": "DELTA 2 Max",
+    "name": "EcoFlow DELTA 2 Max Portable Power Station 2048Wh",
+    "currentImage": "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-219",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "EcoFlow",
+    "model": "RIVER 2 Pro",
+    "name": "EcoFlow RIVER 2 Pro Portable Power Station 768Wh",
+    "currentImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-220",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Anker",
+    "model": "Prime 27650mAh 250W",
+    "name": "Anker Prime 27650mAh Power Bank 250W with Smart App",
+    "currentImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-221",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Sony",
+    "model": "Alpha 7 IV (ILCE-7M4)",
+    "name": "Sony Alpha 7 IV Full-Frame Mirrorless Camera (Body)",
+    "currentImage": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-222",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Canon",
+    "model": "EOS R6 Mark II",
+    "name": "Canon EOS R6 Mark II Mirrorless Camera Body",
+    "currentImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-223",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Shure",
+    "model": "SM7B",
+    "name": "Shure SM7B Vocal Dynamic Studio Microphone",
+    "currentImage": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-224",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Hollyland",
+    "model": "Lark Max Duo",
+    "name": "Hollyland Lark Max Duo Wireless Lavalier Microphone",
+    "currentImage": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  },
+  {
+    "id": "nx-ot-225",
+    "category": "other",
+    "categoryName": "Boshqa elektronika",
+    "brand": "Nanoleaf",
+    "model": "Shapes Hexagons 9PK",
+    "name": "Nanoleaf Shapes Hexagons Smarter Kit (9 Panels)",
+    "currentImage": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "galleryCount": 1
+  }
+]

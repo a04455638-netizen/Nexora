@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg_nx-gp-63" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D11" />
+      <stop offset="50%" stop-color="#141419" />
+      <stop offset="100%" stop-color="#08080A" />
+    </linearGradient>
+    <radialGradient id="glow_nx-gp-63" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#76B900" stop-opacity="0.20" />
+      <stop offset="60%" stop-color="#76B900" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#76B900" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="cardGrad_nx-gp-63" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#181822" />
+      <stop offset="100%" stop-color="#13131A" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="800" height="600" fill="url(#bg_nx-gp-63)" />
+  <circle cx="400" cy="245" r="280" fill="url(#glow_nx-gp-63)" />
+
+  <!-- Outer Protective Frame -->
+  <rect x="20" y="20" width="760" height="560" rx="26" fill="none" stroke="#24242E" stroke-width="2" />
+  <rect x="18" y="18" width="764" height="564" rx="27" fill="none" stroke="#76B900" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="14,10" />
+
+  <!-- Top Header Info -->
+  <g transform="translate(50, 60)">
+    <!-- Brand Emblem -->
+    <rect x="0" y="-16" width="110" height="30" rx="8" fill="#1C1C26" stroke="#333342" stroke-width="1.5" />
+    <text x="55" y="4" text-anchor="middle" fill="#76B900" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="13" letter-spacing="2">
+      PALIT
+    </text>
+
+    <!-- Product ID Code -->
+    <text x="125" y="4" fill="#666675" font-family="monospace" font-weight="bold" font-size="11">
+      [NX-GP-63]
+    </text>
+  </g>
+
+  <!-- Top Right Category Badge -->
+  <g transform="translate(750, 60)">
+    <rect x="-160" y="-16" width="160" height="30" rx="15" fill="#16161F" stroke="#2D2D3A" stroke-width="1.5" />
+    <text x="-80" y="3" text-anchor="middle" fill="#9CA3AF" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="11" letter-spacing="1">
+      VIDEOKARTALAR
+    </text>
+  </g>
+
+  <!-- Center: Precise Device Silhouette -->
+  
+      <!-- Graphics Card Precision Architecture -->
+      <g transform="translate(400, 245)">
+        <!-- GPU Metal Shroud -->
+        <rect x="-165" y="-85" width="330" height="155" rx="16" fill="#18181E" stroke="#3B3B48" stroke-width="3.5" />
+        <!-- Triple or Dual Axial Fans -->
+        
+          <circle cx="-70" cy="-5" r="52" fill="#101014" stroke="#2C2C36" stroke-width="4" />
+          <circle cx="70" cy="-5" r="52" fill="#101014" stroke="#2C2C36" stroke-width="4" />
+          <circle cx="-70" cy="-5" r="18" fill="#181820" stroke="#76B900" stroke-width="2" />
+          <circle cx="70" cy="-5" r="18" fill="#181820" stroke="#76B900" stroke-width="2" />
+        
+        <!-- Golden PCIe Connector -->
+        <rect x="-110" y="70" width="130" height="10" rx="1.5" fill="#D4AF37" stroke="#997A15" stroke-width="1" />
+        <rect x="30" y="70" width="35" height="10" rx="1.5" fill="#D4AF37" stroke="#997A15" stroke-width="1" />
+        <!-- Top Illuminated Brand Name -->
+        <rect x="-150" y="-75" width="120" height="16" rx="4" fill="#0C0C10" />
+        <text x="-90" y="-63" text-anchor="middle" fill="#76B900" font-family="monospace" font-weight="900" font-size="10" letter-spacing="1">
+          GEFORCE RTX
+        </text>
+      </g>
+    
+
+  <!-- Bottom: Authentic Model Info Box -->
+  <g transform="translate(400, 475)">
+    <rect x="-340" y="0" width="680" height="66" rx="16" fill="url(#cardGrad_nx-gp-63)" stroke="#2B2B38" stroke-width="1.5" />
+    <rect x="-338" y="2" width="6" height="62" rx="3" fill="#76B900" />
+
+    <!-- Exact Model Title -->
+    <text x="-315" y="27" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="16" letter-spacing="0.3">
+      RTX 4070 Super Dual
+    </text>
+
+    <!-- Specs Highlight -->
+    <text x="-315" y="49" fill="#9CA3AF" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="12">
+      Original Flagman Kafolatli
+    </text>
+
+    <!-- Verified Authentic Seal -->
+    <g transform="translate(300, 33)">
+      <circle cx="0" cy="0" r="16" fill="#101016" stroke="#76B900" stroke-width="2"/>
+      <path d="M-6 0 L-2 4 L6 -4" fill="none" stroke="#76B900" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- Verified NEXORA footer -->
+  <text x="400" y="562" text-anchor="middle" fill="#555564" font-family="system-ui, sans-serif" font-weight="600" font-size="11" letter-spacing="1.5">
+    NEXORA VERIFIED AUTHENTIC HARDWARE • 100% RASMIY KAFOLAT
+  </text>
+</svg>

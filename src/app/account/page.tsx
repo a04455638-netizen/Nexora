@@ -27,13 +27,23 @@ export default function AccountPage() {
   const { favoritesCount } = useFavorites();
   const { compareCount } = useCompare();
 
-  const [fullName, setFullName] = useState(user?.fullName || "Alisher Navoiy");
-  const [email, setEmail] = useState(user?.email || "alisher@nexora.uz");
-  const [phone, setPhone] = useState(user?.phone || "+998 90 999 88 77");
+  const [fullName, setFullName] = useState(user?.fullName || "");
+  const [email, setEmail] = useState(user?.email || "");
+  const [phone, setPhone] = useState(user?.phone || "+998 ");
   const [city, setCity] = useState(user?.city || "Toshkent shahri");
-  const [address, setAddress] = useState(user?.address || "Amir Temur ko'chasi, 12-uy");
+  const [address, setAddress] = useState(user?.address || "");
 
   const [savedSuccess, setSavedSuccess] = useState(false);
+
+  React.useEffect(() => {
+    if (user) {
+      if (user.fullName) setFullName(user.fullName);
+      if (user.phone) setPhone(user.phone);
+      if (user.email) setEmail(user.email);
+      if (user.city) setCity(user.city);
+      if (user.address) setAddress(user.address);
+    }
+  }, [user]);
 
   const handleSaveProfile = (e: React.FormEvent) => {
     e.preventDefault();
@@ -143,7 +153,12 @@ export default function AccountPage() {
               </div>
 
               <div>
-                <label className="text-xs text-zinc-400 block mb-1">Telefon raqam</label>
+                <div className="flex items-center justify-between mb-1">
+                  <label className="text-xs text-zinc-400">Telefon raqam</label>
+                  <span className={`text-[10px] font-mono px-2 py-0.5 rounded-full ${user?.isPhoneVerified ? 'bg-[#76B900]/10 text-[#76B900] border border-[#76B900]/30' : 'bg-amber-500/10 text-amber-400 border border-amber-500/30'}`}>
+                    {user?.isPhoneVerified ? 'Tasdiqlangan' : 'Tasdiqlanmagan (SMS tekshiruvisiz)'}
+                  </span>
+                </div>
                 <input
                   type="text"
                   required

@@ -7,7 +7,7 @@ export const CATEGORIES: Category[] = [
     slug: "smartphones",
     description: "Eng so'nggi flagman va premium smartfonlar: Apple iPhone, Samsung Galaxy, Xiaomi va Pixel.",
     icon: "Smartphone",
-    imageUrl: "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-smartphones.svg",
     sortOrder: 1,
   },
   {
@@ -16,7 +16,7 @@ export const CATEGORIES: Category[] = [
     slug: "laptops",
     description: "Kuchli ishchi stansiyalar, gaming noutbuklar va yengil ultrabuklar: MacBook Pro, ROG, Legion.",
     icon: "Laptop",
-    imageUrl: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-laptops.svg",
     sortOrder: 2,
   },
   {
@@ -25,7 +25,7 @@ export const CATEGORIES: Category[] = [
     slug: "desktops",
     description: "Maksimal unumdorlikka ega professional gaming va 3D render kompyuterlari.",
     icon: "Cpu",
-    imageUrl: "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-desktops.svg",
     sortOrder: 3,
   },
   {
@@ -34,7 +34,7 @@ export const CATEGORIES: Category[] = [
     slug: "gpus",
     description: "NVIDIA GeForce RTX 50 va 40 seriyali ilg'or grafik tezlatgichlar.",
     icon: "Layers",
-    imageUrl: "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-gpus.svg",
     sortOrder: 4,
   },
   {
@@ -43,7 +43,7 @@ export const CATEGORIES: Category[] = [
     slug: "cpus",
     description: "Intel Core Ultra va AMD Ryzen 9000/7000 seriyali yuqori tezlikdagi protsessorlar.",
     icon: "Microchip",
-    imageUrl: "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-cpus.svg",
     sortOrder: 5,
   },
   {
@@ -52,7 +52,7 @@ export const CATEGORIES: Category[] = [
     slug: "monitors",
     description: "OLED va Mini-LED 4K 240Hz gaming hamda rang-aniq professional monitorlar.",
     icon: "Monitor",
-    imageUrl: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-monitors.svg",
     sortOrder: 6,
   },
   {
@@ -61,7 +61,7 @@ export const CATEGORIES: Category[] = [
     slug: "tvs",
     description: "OLED, QD-MiniLED va 8K o'lchamdagi kinematik premium televizorlar.",
     icon: "Tv",
-    imageUrl: "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-tvs.svg",
     sortOrder: 7,
   },
   {
@@ -70,7 +70,7 @@ export const CATEGORIES: Category[] = [
     slug: "tablets",
     description: "iPad Pro M4, Galaxy Tab S10 va ijodiy ishlar uchun portativ planshetlar.",
     icon: "Tablet",
-    imageUrl: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-tablets.svg",
     sortOrder: 8,
   },
   {
@@ -79,7 +79,7 @@ export const CATEGORIES: Category[] = [
     slug: "smartwatches",
     description: "Titan korpusli Apple Watch Ultra 2, Galaxy Watch va Garmin Fenix sport soatlari.",
     icon: "Watch",
-    imageUrl: "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-smartwatches.svg",
     sortOrder: 9,
   },
   {
@@ -88,7 +88,7 @@ export const CATEGORIES: Category[] = [
     slug: "headphones",
     description: "Hi-Res audio, AirPods Max, Sony WH-1000XM5 va shovqinni bekor qiluvchi quloqchinlar.",
     icon: "Headphones",
-    imageUrl: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-headphones.svg",
     sortOrder: 10,
   },
   {
@@ -97,7 +97,7 @@ export const CATEGORIES: Category[] = [
     slug: "gaming-accessories",
     description: "PlayStation 5 Pro, Xbox Series X, VR ko'zoynaklar va geympadlar.",
     icon: "Gamepad2",
-    imageUrl: "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-gaming-accessories.svg",
     sortOrder: 11,
   },
   {
@@ -106,7 +106,7 @@ export const CATEGORIES: Category[] = [
     slug: "keyboards-mice",
     description: "Maxsus mexanik klaviaturalar, magnit kalitlar va ultra yengil sensorli sichqonchalar.",
     icon: "Keyboard",
-    imageUrl: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-keyboards-mice.svg",
     sortOrder: 12,
   },
   {
@@ -115,7 +115,7 @@ export const CATEGORIES: Category[] = [
     slug: "appliances",
     description: "Dyson changyutgichlari, aqlli robot tozalagichlar va DeLonghi qahva mashinalari.",
     icon: "Home",
-    imageUrl: "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-appliances.svg",
     sortOrder: 13,
   },
   {
@@ -124,7 +124,7 @@ export const CATEGORIES: Category[] = [
     slug: "storage-routers",
     description: "Wi-Fi 7 marshrutizatorlari, 4TB PCIe 5.0 SSD va Synology NAS stansiyalari.",
     icon: "HardDrive",
-    imageUrl: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-storage-routers.svg",
     sortOrder: 14,
   },
   {
@@ -133,7 +133,7 @@ export const CATEGORIES: Category[] = [
     slug: "other",
     description: "DJI dronlar, Apple Vision Pro, quvvat stansiyalari va aqlli gadjetlar.",
     icon: "Sparkles",
-    imageUrl: "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "/products/placeholder-other.svg",
     sortOrder: 15,
   },
 ];

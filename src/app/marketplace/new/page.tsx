@@ -30,9 +30,7 @@ export default function NewMarketplaceListingPage() {
   const [includedItems, setIncludedItems] = useState("");
   const [hasWarranty, setHasWarranty] = useState(false);
   const [warrantyDetails, setWarrantyDetails] = useState("");
-  const [primaryImage, setPrimaryImage] = useState(
-    "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80"
-  );
+  const [primaryImage, setPrimaryImage] = useState("/products/placeholder-smartphones.svg");
   const [sellerName, setSellerName] = useState(user?.fullName || "");
   const [sellerPhone, setSellerPhone] = useState(user?.phone || "+998 ");
   const [sellerTelegram, setSellerTelegram] = useState("");
@@ -281,7 +279,7 @@ export default function NewMarketplaceListingPage() {
             <input
               type="url"
               required
-              placeholder="https://images.unsplash.com/photo-..."
+              placeholder="https://... yoki /products/placeholder-..."
               value={primaryImage}
               onChange={(e) => setPrimaryImage(e.target.value)}
               className="w-full bg-[#181818] border border-[#2D2D2D] rounded-xl px-3.5 py-2.5 text-xs text-white outline-none focus:border-[#76B900]"

@@ -19,6 +19,7 @@ import {
   ArrowRight,
 } from "lucide-react";
 import { NexoraLogo } from "@/components/brand/NexoraLogo";
+import { NexoraImage } from "@/components/ui/NexoraImage";
 import { ThemeToggle } from "@/components/layout/ThemeToggle";
 import { MegaMenu } from "@/components/layout/MegaMenu";
 import { useCart } from "@/features/cart/CartContext";
@@ -182,8 +183,8 @@ export const Header: React.FC = () => {
                       }}
                       className="flex items-center gap-3 p-3 hover:bg-[#1C1C1C] dark:hover:bg-[#1C1C1C] hover:bg-zinc-100 transition-colors group"
                     >
-                      <div className="w-10 h-10 rounded-lg bg-[#202020] overflow-hidden flex-shrink-0 flex items-center justify-center">
-                        <img src={item.primaryImage} alt={item.name} className="w-full h-full object-cover" />
+                      <div className="w-10 h-10 rounded-lg bg-[#202020] overflow-hidden flex-shrink-0 flex items-center justify-center relative">
+                        <NexoraImage src={item.primaryImage} alt={item.name} fill className="object-contain p-1" />
                       </div>
                       <div className="flex-1 min-w-0">
                         <p className="text-xs font-semibold text-zinc-100 dark:text-zinc-100 text-zinc-800 truncate group-hover:text-[#76B900]">

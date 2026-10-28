@@ -17,6 +17,7 @@ import {
   Clock,
 } from "lucide-react";
 import { NexoraLogo } from "@/components/brand/NexoraLogo";
+import { NexoraImage } from "@/components/ui/NexoraImage";
 import { ProductCard } from "@/components/products/ProductCard";
 import { CATEGORIES } from "@/data/categories";
 import { Product } from "@/types";
@@ -159,10 +160,13 @@ export default function HomePage() {
 
                 {/* Showcase image */}
                 <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden bg-[#0D0D0D] p-4 flex items-center justify-center">
-                  <img
-                    src="https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+                  <NexoraImage
+                    src="/products/nx-gp-53.svg"
                     alt="NVIDIA GeForce RTX 5090 Founders Edition"
-                    className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-700"
+                    fill
+                    className="object-contain p-2 group-hover:scale-105 transition-transform duration-700"
+                    fallbackCategory="videokartalar"
+                    fallbackText="GeForce RTX 5090 FE"
                   />
                   <div className="absolute bottom-3 left-3 px-3 py-1 rounded-lg bg-black/80 backdrop-blur-md border border-[#303030] text-[11px] font-mono text-zinc-300">
                     32GB GDDR7 • 512-bit • DLSS 4

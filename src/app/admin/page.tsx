@@ -43,7 +43,7 @@ export default function AdminDashboardPage() {
   const [newProductCategory, setNewProductCategory] = useState("smartphones");
   const [newProductPrice, setNewProductPrice] = useState("");
   const [newProductStock, setNewProductStock] = useState("10");
-  const [newProductImg, setNewProductImg] = useState("https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80");
+  const [newProductImg, setNewProductImg] = useState("/products/placeholder-smartphones.svg");
   const [newProductDesc, setNewProductDesc] = useState("");
 
   // Telegram test status

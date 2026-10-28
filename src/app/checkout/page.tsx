@@ -39,6 +39,28 @@ export default function CheckoutPage() {
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
   const [confirmedOrder, setConfirmedOrder] = useState<Order | null>(null);
 
+  // Sync customer details from identified profile or localStorage guest data
+  React.useEffect(() => {
+    if (user) {
+      if (user.fullName) setCustomerName(user.fullName);
+      if (user.phone) setCustomerPhone(user.phone);
+      if (user.email && !user.email.endsWith("@nexora.uz")) setCustomerEmail(user.email);
+      if (user.city) setDeliveryCity(user.city);
+      if (user.address) setDeliveryAddress(user.address);
+    } else {
+      try {
+        const guest = localStorage.getItem("nexora_guest_info");
+        if (guest) {
+          const parsed = JSON.parse(guest);
+          if (parsed.fullName) setCustomerName(parsed.fullName);
+          if (parsed.phone) setCustomerPhone(parsed.phone);
+        }
+      } catch (e) {
+        console.error(e);
+      }
+    }
+  }, [user]);
+
   const handleSubmitOrder = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!items.length) return;

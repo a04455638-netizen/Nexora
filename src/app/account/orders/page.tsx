@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 import { Order, OrderStatus } from "@/types";
 import { useAuth } from "@/features/account/AuthContext";
+import { NexoraImage } from "@/components/ui/NexoraImage";
 
 const STATUS_STEPS: { key: OrderStatus; label: string; desc: string }[] = [
   { key: "accepted", label: "Qabul qilindi", desc: "Buyurtma operatorga yetkazildi" },
@@ -245,6 +246,9 @@ export default function MyOrdersPage() {
                     {order.items.map((item, idx) => (
                       <div key={idx} className="py-2.5 flex items-center justify-between text-xs">
                         <div className="flex items-center gap-3">
+                          <div className="w-9 h-9 rounded-lg bg-[#1B1B1B] border border-[#2D2D2D] p-1 relative overflow-hidden flex-shrink-0">
+                            <NexoraImage src={item.productImage || "/products/placeholder-default.svg"} alt={item.productName} fill className="object-contain" />
+                          </div>
                           <span className="font-medium text-white">{item.productName}</span>
                           <span className="text-zinc-500 font-mono">× {item.quantity}</span>
                         </div>

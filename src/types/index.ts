@@ -174,6 +174,7 @@ export interface UserProfile {
   address: string;
   role: "customer" | "seller" | "admin";
   avatarUrl?: string;
+  isPhoneVerified?: boolean;
 }
 
 export interface SupportTicket {
