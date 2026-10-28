@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Outfit', 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-[#0A0A0A] text-zinc-100 antialiased selection:bg-[#76B900] selection:text-black;
+  }
+}
+
+.dark body {
+  background-color: #0A0A0A;
+  color: #F4F4F5;
+}
+
+/* Custom Webkit Scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #0E0E0E;
+}
+::-webkit-scrollbar-thumb {
+  background: #252525;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #76B900;
+}
+
+/* Futuristic NVIDIA Grid & Glow Utilities */
+.tech-grid-bg {
+  background-image: radial-gradient(rgba(118, 185, 0, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.tech-glow-hero {
+  background: radial-gradient(circle at 50% 20%, rgba(118, 185, 0, 0.15) 0%, rgba(10, 10, 10, 0) 70%);
+}
+
+.glass-panel {
+  background: rgba(20, 20, 20, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
