@@ -1,7 +1,13 @@
 /**
- * NEXORA Telegram Bot Integration Service
- * Secure server-side Telegram Bot API client for instant order, marketplace, and support notifications.
+ * Telegram Bot API Service for NEXORA
+ * Sends instant notifications for new orders, cancellations, and marketplace ads.
  */
+
+export interface TelegramOrderItem {
+  productName: string;
+  quantity: number;
+  unitPrice: number;
+}
 
 export interface TelegramOrderNotification {
   orderId: string;
@@ -9,7 +15,7 @@ export interface TelegramOrderNotification {
   customerPhone: string;
   deliveryCity: string;
   deliveryAddress: string;
-  items: { productName: string; quantity: number; unitPrice: number }[];
+  items: TelegramOrderItem[];
   subtotalAmount: number;
   deliveryFee: number;
   totalAmount: number;
@@ -48,115 +54,143 @@ export interface TelegramSupportNotification {
   message: string;
 }
 
+function escapeHtml(val: any): string {
+  if (val === undefined || val === null) return "";
+  return String(val)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
 class TelegramBotService {
-  private token: string | undefined;
-  private chatId: string | undefined;
+  private defaultToken = "9199911314:AAGRmswky5WGvvr6U_LTcJd715RkwYX8k8I";
+  private defaultChatId = "8031226954";
 
-  constructor() {
-    this.token = process.env.TELEGRAM_BOT_TOKEN;
-    this.chatId = process.env.TELEGRAM_CHAT_ID;
+  public getToken(): string {
+    return process.env.TELEGRAM_BOT_TOKEN || this.defaultToken;
   }
 
-  /**
-   * Check if credentials are configured
-   */
+  public getChatId(): string {
+    return process.env.TELEGRAM_CHAT_ID || this.defaultChatId;
+  }
+
   public isConfigured(): boolean {
-    return Boolean(this.token && this.chatId && this.token.length > 5);
+    const token = this.getToken();
+    const chatId = this.getChatId();
+    return Boolean(token && chatId && token.length > 10);
   }
 
   /**
-   * Send a raw formatted message to the administrator's Telegram chat
+   * Send a message to Telegram administrator chat with robust HTML escaping & plain text fallback
    */
-  public async sendMessage(text: string, parseMode: "HTML" | "Markdown" = "HTML"): Promise<{
+  public async sendMessage(
+    text: string,
+    parseMode: "HTML" | "Markdown" | null = "HTML"
+  ): Promise<{
     success: boolean;
-    mocked?: boolean;
     error?: string;
     messageId?: number;
   }> {
-    if (!this.isConfigured()) {
-      console.log("[TELEGRAM MOCK - Token not set]: Message would be sent:\n", text);
-      return {
-        success: true,
-        mocked: true,
-        error: "Telegram bot token or Chat ID is not configured in .env.local",
-      };
+    const token = this.getToken();
+    const chatId = this.getChatId();
+
+    if (!token || !chatId) {
+      console.warn("[TELEGRAM WARNING]: Telegram bot token or Chat ID is missing.");
+      return { success: false, error: "Credentials missing" };
     }
 
+    const url = `https://api.telegram.org/bot${token}/sendMessage`;
+
     try {
-      const url = `https://api.telegram.org/bot${this.token}/sendMessage`;
+      const payload: any = {
+        chat_id: chatId,
+        text,
+        disable_web_page_preview: true,
+      };
+      if (parseMode) {
+        payload.parse_mode = parseMode;
+      }
+
       const response = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          chat_id: this.chatId,
-          text,
-          parse_mode: parseMode,
-          disable_web_page_preview: true,
-        }),
+        body: JSON.stringify(payload),
       });
 
       const data = await response.json();
 
       if (!response.ok || !data.ok) {
+        // If HTML parsing failed, retry as pure plain text without HTML parse mode
+        if (parseMode === "HTML") {
+          console.warn("[TELEGRAM HTML RETRY]: Retrying as plain text without HTML...");
+          const plainText = text.replace(/<[^>]+>/g, "");
+          const retryRes = await fetch(url, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              chat_id: chatId,
+              text: plainText,
+              disable_web_page_preview: true,
+            }),
+          });
+          const retryData = await retryRes.json();
+          if (retryData.ok) {
+            return { success: true, messageId: retryData.result?.message_id };
+          }
+        }
+
         console.error("[TELEGRAM API ERROR]:", data);
-        return {
-          success: false,
-          error: data.description || "Telegram API error",
-        };
+        return { success: false, error: data.description || "Telegram API error" };
       }
 
-      return {
-        success: true,
-        messageId: data.result?.message_id,
-      };
+      console.log(`[TELEGRAM SUCCESS]: Message delivered! ID: ${data.result?.message_id}`);
+      return { success: true, messageId: data.result?.message_id };
     } catch (err: any) {
       console.error("[TELEGRAM EXCEPTION]:", err);
-      return {
-        success: false,
-        error: err.message || "Failed to communicate with Telegram API",
-      };
+      return { success: false, error: err.message };
     }
   }
 
   /**
-   * Send new order notification according to exact specs
+   * Send new customer order notification
    */
   public async notifyNewOrder(order: TelegramOrderNotification) {
     const formattedDate = new Date(order.createdAt).toLocaleString("uz-UZ", {
       timeZone: "Asia/Tashkent",
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
     });
 
     const itemsText = order.items
       .map(
         (it) =>
-          `• <b>${it.productName}</b> × ${it.quantity} (${(it.unitPrice * it.quantity).toLocaleString("uz-UZ")} so'm)`
+          `• <b>${escapeHtml(it.productName)}</b> × ${it.quantity} (${(
+            it.unitPrice * it.quantity
+          ).toLocaleString("uz-UZ")} so'm)`
       )
       .join("\n");
 
     const message = `
-⚡ <b>NEXORA — YANGI BUYURTMA</b> ⚡
+⚡ <b>NEXORA — YANGI BUYURTMA!</b> ⚡
 ━━━━━━━━━━━━━━━━━━━━━
-<b>Buyurtma raqami:</b> #${order.orderId}
-<b>Mijoz:</b> ${order.customerName}
-<b>Telefon:</b> ${order.customerPhone}
-<b>Shahar:</b> ${order.deliveryCity}
-<b>Manzil:</b> ${order.deliveryAddress}
-<b>To'lov usuli:</b> ${order.paymentMethod}
+<b>Buyurtma raqami:</b> #${escapeHtml(order.orderId)}
+<b>Mijoz:</b> ${escapeHtml(order.customerName)}
+<b>Telefon:</b> ${escapeHtml(order.customerPhone)}
+<b>Shahar:</b> ${escapeHtml(order.deliveryCity)}
+<b>Manzil:</b> ${escapeHtml(order.deliveryAddress)}
+<b>To'lov usuli:</b> ${escapeHtml(order.paymentMethod)}
 
 <b>Mahsulotlar:</b>
 ${itemsText}
 
 ━━━━━━━━━━━━━━━━━━━━━
 <b>Mahsulotlar summasi:</b> ${order.subtotalAmount.toLocaleString("uz-UZ")} so'm
-<b>Yetkazib berish:</b> ${order.deliveryFee > 0 ? `${order.deliveryFee.toLocaleString("uz-UZ")} so'm` : "Bepul"}
-<b>Jami:</b> <b>${order.totalAmount.toLocaleString("uz-UZ")} so'm</b>
+<b>Yetkazib berish:</b> ${
+      order.deliveryFee > 0
+        ? `${order.deliveryFee.toLocaleString("uz-UZ")} so'm`
+        : "Bepul"
+    }
+<b>Jami to'lov:</b> <b>${order.totalAmount.toLocaleString("uz-UZ")} so'm</b>
 <b>Holati:</b> Qabul qilindi
-<b>Buyurtma vaqti:</b> ${formattedDate}
+<b>Vaqt:</b> ${formattedDate}
 ━━━━━━━━━━━━━━━━━━━━━
 <i>NEXORA Premium Store Server Notification</i>
     `.trim();
@@ -175,10 +209,10 @@ ${itemsText}
     const message = `
 ⚠️ <b>NEXORA — BUYURTMA BEKOR QILINDI</b> ⚠️
 ━━━━━━━━━━━━━━━━━━━━━
-<b>Buyurtma raqami:</b> #${cancellation.orderId}
-<b>Mijoz:</b> ${cancellation.customerName}
-<b>Telefon:</b> ${cancellation.customerPhone}
-<b>Bekor qilish sababi:</b> ${cancellation.reason}
+<b>Buyurtma raqami:</b> #${escapeHtml(cancellation.orderId)}
+<b>Mijoz:</b> ${escapeHtml(cancellation.customerName)}
+<b>Telefon:</b> ${escapeHtml(cancellation.customerPhone)}
+<b>Bekor qilish sababi:</b> ${escapeHtml(cancellation.reason)}
 <b>Summa:</b> ${cancellation.totalAmount.toLocaleString("uz-UZ")} so'm
 <b>Bekor qilingan vaqt:</b> ${formattedDate}
 ━━━━━━━━━━━━━━━━━━━━━
@@ -208,15 +242,19 @@ ${itemsText}
     const message = `
 📢 <b>NEXORA MARKETPLACE — YANGI E'LON!</b>
 ━━━━━━━━━━━━━━━━━━━━━
-<b>E'lon ID:</b> #${listing.listingId}
-<b>Sotuvchi:</b> ${listing.sellerName}
-<b>Telefon:</b> ${listing.sellerPhone}
-<b>Telegram:</b> ${listing.sellerTelegram ? `@${listing.sellerTelegram.replace("@", "")}` : "Mavjud emas"}
-<b>Mahsulot:</b> ${listing.title}
-<b>Brend va Model:</b> ${listing.brand} ${listing.model}
-<b>Kategoriya:</b> ${listing.category}
+<b>E'lon ID:</b> #${escapeHtml(listing.listingId)}
+<b>Sotuvchi:</b> ${escapeHtml(listing.sellerName)}
+<b>Telefon:</b> ${escapeHtml(listing.sellerPhone)}
+<b>Telegram:</b> ${
+      listing.sellerTelegram
+        ? `@${escapeHtml(listing.sellerTelegram.replace("@", ""))}`
+        : "Ko'rsatilmagan"
+    }
+<b>Mahsulot:</b> ${escapeHtml(listing.title)}
+<b>Brend va Model:</b> ${escapeHtml(listing.brand)} ${escapeHtml(listing.model)}
+<b>Kategoriya:</b> ${escapeHtml(listing.category)}
 <b>Sotish narxi:</b> ${listing.price.toLocaleString("uz-UZ")} so'm
-<b>Holati:</b> ${conditionLabel}
+<b>Holati:</b> ${escapeHtml(conditionLabel)}
 <b>Vaqt:</b> ${formattedDate}
 ━━━━━━━━━━━━━━━━━━━━━
 <i>E'lonni tasdiqlash yoki rad etish uchun Admin paneliga o'ting.</i>
@@ -232,11 +270,11 @@ ${itemsText}
     const message = `
 📩 <b>NEXORA — YANGI MIJOZ MUROJAATI</b>
 ━━━━━━━━━━━━━━━━━━━━━
-<b>Mijoz:</b> ${ticket.name} (${ticket.phone})
-<b>Mavzu:</b> ${ticket.subject}
-<b>Bo'lim:</b> ${ticket.type}
+<b>Mijoz:</b> ${escapeHtml(ticket.name)} (${escapeHtml(ticket.phone)})
+<b>Mavzu:</b> ${escapeHtml(ticket.subject)}
+<b>Bo'lim:</b> ${escapeHtml(ticket.type)}
 <b>Xabar matni:</b>
-${ticket.message}
+${escapeHtml(ticket.message)}
 ━━━━━━━━━━━━━━━━━━━━━
     `.trim();
 
@@ -245,3 +283,4 @@ ${ticket.message}
 }
 
 export const telegramBot = new TelegramBotService();
+export default telegramBot;

@@ -442,7 +442,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "smartphones",
     "categoryName": "Smartfonlar",
     "price": 13900000,
-    "primaryImage": "https://images.unsplash.com/photo-1533228896884-6a8f9312804b?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
     "description": "ZEISS APO telefoto linzasi, Vivo V3 tasvir chipi va Dimensity 9300 bilan jihozlangan fotoflagman.",
     "specs": {
       "processor": "Dimensity 9300",
@@ -595,7 +595,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "smartphones",
     "categoryName": "Smartfonlar",
     "price": 6100000,
-    "primaryImage": "https://images.unsplash.com/photo-1598327105741-9a7442750e32?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
     "description": "Google Tensor G3, 120Hz Actua displey va eng ilg'or sun'iy intellektli kamera funksiyalari.",
     "specs": {
       "processor": "Google Tensor G3",
@@ -628,7 +628,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 42000000,
     "primaryImage": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple MacBook Pro 16 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -659,7 +659,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 26200000,
     "primaryImage": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple MacBook Pro 14 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -690,7 +690,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 18700000,
     "primaryImage": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple MacBook Air 15 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -720,7 +720,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 14500000,
     "primaryImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple MacBook Air 13 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -751,7 +751,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 39500000,
     "primaryImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ROG Zephyrus G16 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -781,7 +781,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 49500000,
     "primaryImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ROG Strix SCAR 18 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -812,7 +812,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 12800000,
     "primaryImage": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS TUF Gaming A15 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -842,7 +842,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 29500000,
     "primaryImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS Zenbook Duo UX8406 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -872,7 +872,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 31900000,
     "primaryImage": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Lenovo Legion Pro 7i — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -903,7 +903,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 16900000,
     "primaryImage": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Lenovo Legion 5i — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -933,7 +933,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 32000000,
     "primaryImage": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Lenovo ThinkPad X1 Carbon — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -963,7 +963,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 43500000,
     "primaryImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Razer Blade 16 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -992,7 +992,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 34500000,
     "primaryImage": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Razer Blade 14 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1021,7 +1021,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 31500000,
     "primaryImage": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dell XPS 16 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1050,7 +1050,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 26800000,
     "primaryImage": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dell XPS 14 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1080,7 +1080,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 19800000,
     "primaryImage": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "HP OMEN Transcend 14 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1110,7 +1110,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 58000000,
     "primaryImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "MSI Titan 18 HX — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1141,7 +1141,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 17200000,
     "primaryImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Microsoft Surface Laptop 7 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1202,7 +1202,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 47200000,
     "primaryImage": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "NEXORA Custom Apex Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1233,7 +1233,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 20200000,
     "primaryImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "NEXORA Custom Phantom Gaming — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1263,7 +1263,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 52000000,
     "primaryImage": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Mac Studio M2 Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1292,7 +1292,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 92000000,
     "primaryImage": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Mac Pro Rack — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1322,7 +1322,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 36500000,
     "primaryImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Corsair Vengeance i7500 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1351,7 +1351,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 47000000,
     "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Alienware Aurora R16 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1380,7 +1380,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 48500000,
     "primaryImage": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "NZXT Player Three Prime — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1409,7 +1409,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 32500000,
     "primaryImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Lenovo Legion Tower 7i — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1438,7 +1438,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 46900000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "HP OMEN 45L — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1467,7 +1467,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 54000000,
     "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "MSI MEG Trident X2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1497,7 +1497,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 24800000,
     "primaryImage": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "CyberPowerPC Gamer Supreme — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1524,9 +1524,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "desktops",
     "categoryName": "Stol kompyuterlari",
     "price": 22800000,
-    "primaryImage": "https://images.unsplash.com/photo-1562975079-6a693d891941?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "NEXORA Custom Mini Cube — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1555,7 +1555,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 16900000,
     "primaryImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Mac mini M2 Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1615,7 +1615,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 20200000,
     "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "NVIDIA RTX 5080 FE — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1644,7 +1644,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 29500000,
     "primaryImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ROG Strix RTX 4090 OC — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1673,7 +1673,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 30500000,
     "primaryImage": "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "MSI RTX 4090 Suprim Liquid — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1703,7 +1703,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 17100000,
     "primaryImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "MSI RTX 4080 Super Suprim X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1730,9 +1730,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "gpus",
     "categoryName": "Videokartalar",
     "price": 17500000,
-    "primaryImage": "https://images.unsplash.com/photo-1587202372132-7c6d66e746a5?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS TUF RTX 4080 Super — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1761,7 +1761,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 14800000,
     "primaryImage": "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Gigabyte AORUS RTX 4070 Ti Super — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1790,7 +1790,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 13200000,
     "primaryImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Gigabyte RTX 4070 Ti Super Windforce — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1819,7 +1819,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 9700000,
     "primaryImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS TUF RTX 4070 Super — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1848,7 +1848,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9800000,
     "primaryImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "MSI RTX 4070 Super Ventus 3X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1876,7 +1876,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9200000,
     "primaryImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Palit RTX 4070 Super Dual — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1905,7 +1905,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 6300000,
     "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS Dual RTX 4060 Ti 16GB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1933,7 +1933,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4600000,
     "primaryImage": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ZOTAC RTX 4060 Twin Edge — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1962,7 +1962,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 16900000,
     "primaryImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sapphire Radeon RX 7900 XTX Nitro+ — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -1991,7 +1991,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 8900000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "PowerColor RX 7800 XT Hellhound — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2020,7 +2020,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 7900000,
     "primaryImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 7 9800X3D — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2081,7 +2081,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 8700000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 9 9950X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2111,7 +2111,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9700000,
     "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Intel Core Ultra 9 285K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2140,9 +2140,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "categoryName": "Protsessorlar",
     "price": 5800000,
     "discountPrice": 5300000,
-    "primaryImage": "https://images.unsplash.com/photo-1562975079-6a693d891941?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 7 7800X3D — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2173,7 +2173,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 7500000,
     "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Intel Core i9-14900K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2202,7 +2202,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 5900000,
     "primaryImage": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Intel Core i7-14700K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2231,7 +2231,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 8900000,
     "primaryImage": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 9 7950X3D — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2261,7 +2261,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 2850000,
     "primaryImage": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 5 7600X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2290,7 +2290,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4200000,
     "primaryImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Intel Core i5-14600K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2318,7 +2318,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 6500000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Intel Core Ultra 7 265K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2347,7 +2347,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 7300000,
     "primaryImage": "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 9 9900X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2376,7 +2376,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 5400000,
     "primaryImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Ryzen 7 9700X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2404,7 +2404,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 74000000,
     "primaryImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "AMD Threadripper 7980X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2464,7 +2464,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 19800000,
     "primaryImage": "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ROG PG32UCDM — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2495,7 +2495,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 13600000,
     "primaryImage": "https://images.unsplash.com/photo-1547119957-637f8679db1e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1547119957-637f8679db1e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dell AW3423DWF — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2524,7 +2524,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 13800000,
     "primaryImage": "https://images.unsplash.com/photo-1593642634367-d91a135587b5?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593642634367-d91a135587b5?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dell AW2725DF — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2553,7 +2553,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 17200000,
     "primaryImage": "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Odyssey Neo G8 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2580,7 +2580,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "monitors",
     "categoryName": "Monitorlar",
     "price": 12900000,
-    "primaryImage": "https://images.unsplash.com/photo-1585792180666-f75a7c4f4ef1?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
       "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
     ],
@@ -2611,7 +2611,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 21500000,
     "primaryImage": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "LG UltraGear 45GR95QE — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2640,7 +2640,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 11400000,
     "primaryImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "LG UltraGear 27GR95UM — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2669,7 +2669,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 18900000,
     "primaryImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "MSI MPG 321URX — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2698,7 +2698,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 12200000,
     "primaryImage": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "BenQ EX3210U — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2727,7 +2727,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 27500000,
     "primaryImage": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Studio Display Nano — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2756,7 +2756,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 68000000,
     "primaryImage": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Pro Display XDR — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2786,7 +2786,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 8200000,
     "primaryImage": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Gigabyte M32U — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2815,7 +2815,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 39000000,
     "primaryImage": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ProArt PA32UCG-K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2844,7 +2844,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3400000,
     "primaryImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Odyssey G5 G55C — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2905,7 +2905,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 29900000,
     "primaryImage": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung S95D — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2935,7 +2935,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 21900000,
     "primaryImage": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung The Frame 65 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2965,7 +2965,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 43500000,
     "primaryImage": "https://images.unsplash.com/photo-1577979749830-f1d742b96791?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1577979749830-f1d742b96791?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "LG OLED77G4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -2996,7 +2996,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 24900000,
     "primaryImage": "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "LG OLED65C4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3026,7 +3026,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 16800000,
     "primaryImage": "https://images.unsplash.com/photo-1558888401-3cc1de77652d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1558888401-3cc1de77652d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "LG OLED55B4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3055,7 +3055,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 49000000,
     "primaryImage": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony K-75XR90 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3085,7 +3085,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 29500000,
     "primaryImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony K-65XR80 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3114,7 +3114,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 38000000,
     "primaryImage": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony XR-65A95L — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3144,7 +3144,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 26900000,
     "primaryImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "TCL 85C855 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3174,7 +3174,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 12900000,
     "primaryImage": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "TCL 65C755 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3203,7 +3203,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 24500000,
     "primaryImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Hisense 75U8N — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3233,7 +3233,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 9900000,
     "primaryImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Xiaomi S65 Mini-LED — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3263,7 +3263,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 22800000,
     "primaryImage": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Philips 65OLED808 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3324,7 +3324,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 13900000,
     "primaryImage": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple iPad Pro 11 M4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3355,7 +3355,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 11200000,
     "primaryImage": "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple iPad Air 13 M2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3384,7 +3384,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 8900000,
     "primaryImage": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple iPad Air 11 M2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3414,7 +3414,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 4750000,
     "primaryImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple iPad 10 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3443,7 +3443,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 7900000,
     "primaryImage": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple iPad mini 7 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3472,7 +3472,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 18200000,
     "primaryImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Tab S10 Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3502,7 +3502,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 13900000,
     "primaryImage": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Tab S10+ — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3532,7 +3532,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 5600000,
     "primaryImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Tab S9 FE — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3562,7 +3562,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 8200000,
     "primaryImage": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Xiaomi Pad 6S Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3592,7 +3592,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 21500000,
     "primaryImage": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Microsoft Surface Pro 11 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3621,7 +3621,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 7800000,
     "primaryImage": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "OnePlus Pad 2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3650,7 +3650,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 6400000,
     "primaryImage": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Lenovo Legion Tab Y700 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3679,7 +3679,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 12500000,
     "primaryImage": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Huawei MatePad Pro 13.2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3740,7 +3740,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 6100000,
     "primaryImage": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Apple Watch 10 46mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3769,7 +3769,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 5900000,
     "primaryImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Apple Watch 10 42mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3799,7 +3799,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 3450000,
     "primaryImage": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Apple Watch SE — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3829,7 +3829,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 7800000,
     "primaryImage": "https://images.unsplash.com/photo-1509741102003-ca64bfe5f069?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1509741102003-ca64bfe5f069?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Galaxy Watch Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3859,7 +3859,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4200000,
     "primaryImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Galaxy Watch 7 44mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3888,7 +3888,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3800000,
     "primaryImage": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung Galaxy Watch 7 40mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3915,9 +3915,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "smartwatches",
     "categoryName": "Smart-soatlar",
     "price": 15600000,
-    "primaryImage": "https://images.unsplash.com/photo-1533228896884-6a8f9312804b?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Garmin Fenix 8 47mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3947,7 +3947,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 14200000,
     "primaryImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Garmin Epix Pro 51mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -3976,7 +3976,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9200000,
     "primaryImage": "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1575695342320-d2d2d2f9b73f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Garmin Forerunner 965 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4005,7 +4005,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 10900000,
     "primaryImage": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Huawei Watch Ultimate — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4035,7 +4035,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 2600000,
     "primaryImage": "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Huawei Watch GT 4 46mm — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4064,7 +4064,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 6400000,
     "primaryImage": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Amazfit Falcon Titanium — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4093,7 +4093,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 7900000,
     "primaryImage": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Suunto Race Titanium — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4154,7 +4154,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 2990000,
     "primaryImage": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple AirPods Pro 2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4185,7 +4185,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 2250000,
     "primaryImage": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple AirPods 4 ANC — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4215,7 +4215,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 4300000,
     "primaryImage": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony WH-1000XM5 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4246,7 +4246,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 3250000,
     "primaryImage": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony WF-1000XM5 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4275,7 +4275,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3500000,
     "primaryImage": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony WH-1000XM4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4304,7 +4304,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 5400000,
     "primaryImage": "https://images.unsplash.com/photo-1545127398-14699f92334b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Bose QC Ultra Headphones — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4333,7 +4333,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3900000,
     "primaryImage": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Bose QC Ultra Earbuds — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4362,7 +4362,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 3850000,
     "primaryImage": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sennheiser Momentum 4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4391,7 +4391,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3950000,
     "primaryImage": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sennheiser Momentum TW 4 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4419,7 +4419,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 1950000,
     "primaryImage": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Marshall Major V — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4448,7 +4448,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2450000,
     "primaryImage": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Marshall Motif II ANC — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4477,7 +4477,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2100000,
     "primaryImage": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Beyerdynamic DT 990 Pro 250 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4506,7 +4506,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2600000,
     "primaryImage": "https://images.unsplash.com/photo-1590658006821-04f4008d5717?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1590658006821-04f4008d5717?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Audio-Technica ATH-M50xBT2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4535,7 +4535,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4800000,
     "primaryImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Shure AONIC 50 Gen 2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4596,7 +4596,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 6900000,
     "primaryImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony PS5 Slim 1TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4625,7 +4625,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 7800000,
     "primaryImage": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Microsoft Xbox Series X 1TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4654,7 +4654,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4900000,
     "primaryImage": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Microsoft Xbox Series S 1TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4683,7 +4683,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4400000,
     "primaryImage": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Nintendo Switch OLED Mario Red — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4711,9 +4711,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "categoryName": "Gaming aksessuarlari",
     "price": 9500000,
     "discountPrice": 8900000,
-    "primaryImage": "https://images.unsplash.com/photo-1612287233207-6f82c474d209?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Valve Steam Deck OLED 1TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4742,7 +4742,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 11400000,
     "primaryImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ROG Ally X — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4772,7 +4772,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9800000,
     "primaryImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Lenovo Legion Go — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4801,7 +4801,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 6200000,
     "primaryImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Thrustmaster T300 RS GT — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4831,7 +4831,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 3950000,
     "primaryImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Logitech G G29 Driving Force — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4858,9 +4858,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "gaming-accessories",
     "categoryName": "Gaming aksessuarlari",
     "price": 8900000,
-    "primaryImage": "https://images.unsplash.com/photo-1622979135225-d2ba269bc1df?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Meta Quest 3 512GB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4889,7 +4889,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4900000,
     "primaryImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Meta Quest 3S 128GB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4918,7 +4918,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2300000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Elgato Stream Deck MK.2 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -4947,7 +4947,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2950000,
     "primaryImage": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony DualSense Edge — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5007,7 +5007,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 1850000,
     "primaryImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Razer DeathAdder V3 Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5036,7 +5036,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2200000,
     "primaryImage": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Razer Viper V3 Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5065,7 +5065,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3200000,
     "primaryImage": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Wooting 60HE+ — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5094,7 +5094,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3600000,
     "primaryImage": "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "SteelSeries Apex Pro TKL G3 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5123,7 +5123,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3100000,
     "primaryImage": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Razer Huntsman V3 Pro TKL — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5152,7 +5152,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2600000,
     "primaryImage": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Keychron Q1 Pro 75% — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5181,7 +5181,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 1450000,
     "primaryImage": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Keychron K3 Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5211,7 +5211,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 3100000,
     "primaryImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS ROG Azoth — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5241,7 +5241,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 1480000,
     "primaryImage": "https://images.unsplash.com/photo-1626218174358-7769486c4b79?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1626218174358-7769486c4b79?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Logitech MX Master 3S — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5270,7 +5270,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 1750000,
     "primaryImage": "https://images.unsplash.com/photo-1561112079-2c3226d9c559?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1561112079-2c3226d9c559?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Logitech MX Keys S — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5297,9 +5297,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "keyboards-mice",
     "categoryName": "Klaviaturalar va sichqonchalar",
     "price": 2400000,
-    "primaryImage": "https://images.unsplash.com/photo-1541140532154-b024d705b909?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Glorious GMMK PRO — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5326,9 +5326,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "keyboards-mice",
     "categoryName": "Klaviaturalar va sichqonchalar",
     "price": 3900000,
-    "primaryImage": "https://images.unsplash.com/photo-1629429470870-2a3b04c27a29?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Finalmouse ULX Lion — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5357,7 +5357,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 1350000,
     "primaryImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Pulsar X2V2 Mini — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5386,7 +5386,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 1850000,
     "primaryImage": "https://images.unsplash.com/photo-1560762484-813fc97650a0?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1560762484-813fc97650a0?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Akko MOD 007B-PC — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5446,7 +5446,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 12500000,
     "primaryImage": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dyson Gen5detect — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5475,7 +5475,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 8200000,
     "primaryImage": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dyson Airwrap Long — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5504,7 +5504,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 6900000,
     "primaryImage": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dyson Supersonic Nural — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5533,7 +5533,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 17200000,
     "primaryImage": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Roborock S8 MaxV Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5562,7 +5562,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 13400000,
     "primaryImage": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Roborock Qrevo MaxV — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5591,7 +5591,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 19200000,
     "primaryImage": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dreame X40 Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5621,7 +5621,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 10800000,
     "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dreame L20 Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5648,9 +5648,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "categoryName": "Maishiy texnika",
     "price": 6800000,
     "discountPrice": 6200000,
-    "primaryImage": "https://images.unsplash.com/photo-1517668808822-9ebb02ae2a0e?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "DeLonghi Magnifica S ECAM250.23 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5680,7 +5680,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 8700000,
     "primaryImage": "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Philips EP5447/90 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5708,7 +5708,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 15800000,
     "primaryImage": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Breville BES881BSS — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5737,7 +5737,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 27900000,
     "primaryImage": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "LG GR-X29FTQKL — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5767,7 +5767,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 2600000,
     "primaryImage": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Xiaomi Purifier 4 Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5796,7 +5796,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9800000,
     "primaryImage": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Dyson HP09 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5854,7 +5854,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4200000,
     "primaryImage": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "ASUS RT-AX88U Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5884,7 +5884,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 7500000,
     "primaryImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "TP-Link Archer GE800 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5913,7 +5913,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 14500000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "TP-Link Deco BE85 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5943,7 +5943,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 4450000,
     "primaryImage": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung 990 PRO 4TB Heatsink — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -5974,7 +5974,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 2350000,
     "primaryImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung 990 PRO 2TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6003,7 +6003,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4800000,
     "primaryImage": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Western Digital SN850X 4TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6031,7 +6031,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 4500000,
     "primaryImage": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Crucial T705 2TB Gen5 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6059,7 +6059,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2300000,
     "primaryImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Kingston KC3000 2TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6085,9 +6085,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "storage-routers",
     "categoryName": "Routerlar va saqlash",
     "price": 4900000,
-    "primaryImage": "https://images.unsplash.com/photo-1562975079-6a693d891941?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Samsung T9 4TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6116,7 +6116,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2800000,
     "primaryImage": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "SanDisk Extreme PRO 2TB — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6144,7 +6144,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9200000,
     "primaryImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Synology DS923+ — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6173,7 +6173,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 5400000,
     "primaryImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Synology DS224+ — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6201,7 +6201,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 9800000,
     "primaryImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "QNAP TS-464 — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6228,9 +6228,9 @@ export const INITIAL_PRODUCTS: Product[] = [
     "category": "storage-routers",
     "categoryName": "Routerlar va saqlash",
     "price": 2800000,
-    "primaryImage": "https://images.unsplash.com/photo-1587202372132-7c6d66e746a5?auto=format&fit=crop&w=800&q=80",
+    "primaryImage": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1544652478-6653e09f18a2?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Ubiquiti UCG-Ultra — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6259,7 +6259,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 45000000,
     "primaryImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Apple Vision Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6318,7 +6318,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 13800000,
     "primaryImage": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "DJI Mini 4 Pro Plus — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6348,7 +6348,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 8700000,
     "primaryImage": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "DJI Osmo Pocket 3 Creator — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6377,7 +6377,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 8800000,
     "primaryImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "GoPro HERO13 Black Creator — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6406,7 +6406,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 6800000,
     "primaryImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Insta360 X4 8K — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6435,7 +6435,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 22500000,
     "primaryImage": "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1592659762303-90081d34b277?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "EcoFlow DELTA 2 Max — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6465,7 +6465,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "discountPrice": 8200000,
     "primaryImage": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "EcoFlow RIVER 2 Pro — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6494,7 +6494,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2300000,
     "primaryImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Anker Prime 27650mAh 250W — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6523,7 +6523,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 28500000,
     "primaryImage": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Sony Alpha 7 IV (ILCE-7M4) — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6553,7 +6553,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 29900000,
     "primaryImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Canon EOS R6 Mark II — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6582,7 +6582,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 5400000,
     "primaryImage": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Shure SM7B — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6611,7 +6611,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 3700000,
     "primaryImage": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1598331668826-20cecc596b86?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Hollyland Lark Max Duo — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
@@ -6640,7 +6640,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "price": 2800000,
     "primaryImage": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
     "galleryImages": [
-      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
     ],
     "description": "Nanoleaf Shapes Hexagons 9PK — eng yuqori sifat va innovatsion texnologiyalarga ega flagman model. NEXORA kafolati bilan rasmiy taqdim etiladi.",
     "specs": {
